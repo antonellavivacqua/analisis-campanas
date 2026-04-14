@@ -1,4 +1,4 @@
-# analisis-campa-as
+# analisis-campanas
 # Análisis de Keywords y Rendimiento de Campañas
 
 Este proyecto realiza un proceso de ETL (Extracción, Transformación y Carga) sobre un dataset de métricas de marketing digital.
